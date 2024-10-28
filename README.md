@@ -1,6 +1,6 @@
-👋 Olá, sou @victor0psf
+- ## 👋 Olá, sou @victor0psf
  <details>
-  <summary> ##🛠️ Minhas ferramentas</summary>
+ <summary><h1>🛠️ Minhas ferramentas</h1></summary>
 
   ## 🖥️ Linguagens de Programação e Marcação
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
