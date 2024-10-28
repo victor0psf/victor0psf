@@ -1,7 +1,26 @@
-- 👋 Hi, I’m @victor0psf
-- 👀 Minhas Ferramentas -
-- 👨‍💻 Linguagens de Programação e Marcação
-- Kotlin, JavaSCript, HTML, CSS, SQL
+👋 Olá, sou @victor0psf
+ <details>
+  <summary> ##🛠️ Minhas ferramentas</summary>
+
+  ## 🖥️ Linguagens de Programação e Marcação
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+
+## 📚 Frameworks e Bibliotecas
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## 💻 Software e Ferramentas
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+</details>
+
+
+
+
 
 <!---
 victor0psf/victor0psf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
