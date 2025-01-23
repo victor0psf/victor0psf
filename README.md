@@ -8,7 +8,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![C#] (https://img.shields.io/badge/C%23-purple).
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=C#&logoColor=white)
 
 
 ## 📚 Frameworks and Libraries
