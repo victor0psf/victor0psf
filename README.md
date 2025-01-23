@@ -1,7 +1,9 @@
-- ## 👋 Hi, i'm @victor0psf
- <details>
- <summary><h1>🛠️ My Tools</h1></summary>
 
+<h1>`👋 Welcome, i'm @victor0psf`</h1>
+ 
+<div align="center">
+<h1>🛠️ My Tools</h1>
+ 
   ## 🖥️ Programming and Markup Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"/>
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg height="40" alt= javascript logo/>
@@ -17,8 +19,9 @@
 ## 💻 Software and Tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-</details>
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  
+</div>
+
 
 
 
