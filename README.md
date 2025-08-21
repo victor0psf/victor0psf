@@ -1,6 +1,9 @@
 
-<h1>`👋 Welcome, i'm @victor0psf`</h1>
- 
+<h1 align="center">`👋 Welcome, i'm @victor0psf`</h1>
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Aberto+a+novos+desafios" alt="Typing SVG" />
+</p>
+
 <div align="center">
 <h1>🛠️ My Tools</h1>
  
@@ -27,16 +30,17 @@
 </div>
 
  
-<div>
+<div >
    <h3>Network and Contacts:</h3>
   <a href="https://www.linkedin.com/in/victorpsf/" target='_blank'><img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
 </div>
 
 </br>
 
-![victor0psf GitHub stats](https://github-readme-stats.vercel.app/api?username=victor0psf&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor0psf&layout=compact)
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor0psf&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor0psf&layout=compact&langs_count=6&theme=radical"/>
+</p>
 
 
 
