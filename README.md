@@ -30,7 +30,7 @@
 </div>
 
  
-<div >
+<div align="center">
    <h3>Network and Contacts:</h3>
   <a href="https://www.linkedin.com/in/victorpsf/" target='_blank'><img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
 </div>
