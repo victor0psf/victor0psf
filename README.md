@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Aberto+a+novos+desafios" alt="Typing SVG" />
 </p>
 
+---
+
 <div align="center">
 <h1>🛠️ My Tools</h1>
  
@@ -15,6 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="45" alt= postgresql logo/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45" alt= mySQL logo/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo"/>
+
 
 ## 📚 Frameworks and Libraries
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="46" alt="flutter logo"/>
@@ -29,6 +32,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  
 </div>
 
+---
  
 <div align="center">
    <h3>Network and Contacts:</h3>
